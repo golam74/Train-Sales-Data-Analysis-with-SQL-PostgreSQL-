@@ -49,7 +49,6 @@ The goal is to answer **real-world business questions** using SQL — from **bas
 - **Language:** SQL  
 - **Dataset:** Synthetic retail sales data (20,000+ rows)  
 
----
 -- 📊 Retail Train Sales Data Analysis with SQL (PostgreSQL)
 -- Author: Golam Israil
 
